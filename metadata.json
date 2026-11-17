@@ -1,0 +1,6 @@
+{
+  "name": "LaunchGuard AI",
+  "description": "Build with AI. Test with AI. Launch with Confidence. Real-time website testing, security configuration inspection, performance & SEO analysis, broken link verification, and AI-guided launch readiness reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
